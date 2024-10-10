@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26B9E-F55D-446F-ACF9-0BA907D239DA}|..\\Data\\Data.csproj|c:\\users\\admin\\desktop\\lena yazilim\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\home\\forms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\home\\forms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\models\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:models\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31CDFB6-D0D0-4FF3-851A-3337A9A5191D}|..\\Business\\Business.csproj|c:\\users\\admin\\desktop\\lena yazilim\\business\\abstract\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4469696-20F6-41FA-A7B7-6285602A896A}|..\\Core\\Core.csproj|c:\\users\\admin\\desktop\\lena yazilim\\core\\data\\base\\entityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\models\\formfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:models\\formfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26B9E-F55D-446F-ACF9-0BA907D239DA}|..\\Data\\Data.csproj|c:\\users\\admin\\desktop\\lena yazilim\\data\\concrete\\formdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31CDFB6-D0D0-4FF3-851A-3337A9A5191D}|..\\Business\\Business.csproj|c:\\users\\admin\\desktop\\lena yazilim\\business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727A1215-0353-4472-A7F4-94FC72A3AE25}|..\\Entities\\Entities.csproj|c:\\users\\admin\\desktop\\lena yazilim\\entities\\concrete\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26B9E-F55D-446F-ACF9-0BA907D239DA}|..\\Data\\Data.csproj|c:\\users\\admin\\desktop\\lena yazilim\\data\\abstract\\iformdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31CDFB6-D0D0-4FF3-851A-3337A9A5191D}|..\\Business\\Business.csproj|c:\\users\\admin\\desktop\\lena yazilim\\business\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26B9E-F55D-446F-ACF9-0BA907D239DA}|..\\Data\\Data.csproj|c:\\users\\admin\\desktop\\lena yazilim\\data\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727A1215-0353-4472-A7F4-94FC72A3AE25}|..\\Entities\\Entities.csproj|c:\\users\\admin\\desktop\\lena yazilim\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4469696-20F6-41FA-A7B7-6285602A896A}|..\\Core\\Core.csproj|c:\\users\\admin\\desktop\\lena yazilim\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4469696-20F6-41FA-A7B7-6285602A896A}|..\\Core\\Core.csproj|c:\\users\\admin\\desktop\\lena yazilim\\core\\data\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26B9E-F55D-446F-ACF9-0BA907D239DA}|..\\Data\\Data.csproj|c:\\users\\admin\\desktop\\lena yazilim\\data\\concrete\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|c:\\users\\admin\\desktop\\lena yazilim\\lenasoftware.developer.project\\lenasoftware.developer.project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{76ABDCA3-E8CB-49AF-9D03-AB72B300B9D5}|LenaSoftware.Developer.Project.csproj|solutionrelative:lenasoftware.developer.project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forms.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Home\\Forms.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Forms.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Home\\Forms.cshtml",
+              "RelativeToolTip": "Views\\Home\\Forms.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:09:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:35:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Core\\Data\\Base\\EntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Data\\Base\\EntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Core\\Data\\Base\\EntityRepositoryBase.cs",
+              "RelativeToolTip": "..\\Core\\Data\\Base\\EntityRepositoryBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:12:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:36:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:41:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Models\\AddForm.cs",
+              "RelativeDocumentMoniker": "Models\\AddForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Models\\AddForm.cs",
+              "RelativeToolTip": "Models\\AddForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:29:14.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Concrete\\FormDal.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Concrete\\FormDal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Concrete\\FormDal.cs",
+              "RelativeToolTip": "..\\Data\\Concrete\\FormDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:55:51.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Context.cs",
+              "RelativeToolTip": "..\\Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:17:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:41:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:45:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFormService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Business\\Abstract\\IFormService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Abstract\\IFormService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Business\\Abstract\\IFormService.cs",
+              "RelativeToolTip": "..\\Business\\Abstract\\IFormService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:54:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:39:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormField.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Models\\FormField.cs",
+              "RelativeDocumentMoniker": "Models\\FormField.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Models\\FormField.cs",
+              "RelativeToolTip": "Models\\FormField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:27:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "..\\Business\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:36:40.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:41:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Entities\\Concrete\\Form.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Concrete\\Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Entities\\Concrete\\Form.cs",
+              "RelativeToolTip": "..\\Entities\\Concrete\\Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:56:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:42:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Helpers\\LoginHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\LoginHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Helpers\\LoginHelper.cs",
+              "RelativeToolTip": "Helpers\\LoginHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:37:30.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFormDal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Abstract\\IFormDal.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Abstract\\IFormDal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Abstract\\IFormDal.cs",
+              "RelativeToolTip": "..\\Data\\Abstract\\IFormDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:56:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Business\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Business\\Concrete\\UserService.cs",
+              "RelativeToolTip": "..\\Business\\Concrete\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:38:03.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "..\\Data\\Abstract\\IUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:29:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "..\\Entities\\Concrete\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:46:19.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:41:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Core\\Data\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Data\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Core\\Data\\IEntityRepository.cs",
+              "RelativeToolTip": "..\\Core\\Data\\IEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:07:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Concrete\\UserDal.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Concrete\\UserDal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\Data\\Concrete\\UserDal.cs",
+              "RelativeToolTip": "..\\Data\\Concrete\\UserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:30:32.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:45:28.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T15:42:37.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:45:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:41:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T15:39:58.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LenaSoftware.Developer.Project",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\LenaSoftware.Developer.Project.csproj",
+              "RelativeDocumentMoniker": "LenaSoftware.Developer.Project.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lena Yazilim\\LenaSoftware.Developer.Project\\LenaSoftware.Developer.Project.csproj",
+              "RelativeToolTip": "LenaSoftware.Developer.Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T15:28:39.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

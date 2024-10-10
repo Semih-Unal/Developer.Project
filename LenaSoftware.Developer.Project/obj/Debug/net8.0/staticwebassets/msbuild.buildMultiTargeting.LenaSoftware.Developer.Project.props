@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LenaSoftware.Developer.Project.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LenaSoftware.Developer.Project.props" />
+</Project>

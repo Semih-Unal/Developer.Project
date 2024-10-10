@@ -1,0 +1,156 @@
+﻿@model IEnumerable<Entities.Concrete.Form>
+
+@{
+    ViewData["Title"] = "Formlar";
+}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Formlar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            </ul>
+            <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Form Adı" aria-label="Form Adı" name="filter">
+                <button class="btn btn-outline-success" type="submit">Ara</button>
+            </form>
+        </div>
+    </div>
+</nav>
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Yeni Form Oluştur
+</button>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+
+            <th>
+               Önizleme
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var b in Model)
+        {
+            <tr>
+                <td scope="row">
+                    @Html.DisplayFor(modelItem => b.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => b.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => b.Description)
+                </td>
+
+                <td>
+                    <a href="Forms/@b.Id" class="btn btn-info" role="button">Detay</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Yeni Form Oluştur</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="formAdd" action="~/Home/AddForm" method="post">
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Form Adı</span>
+                        <input type="text" class="form-control" aria-label="Form Adı" aria-describedby="inputGroup-sizing-sm" name="name">
+                    </div>
+                    <div class="form-floating">
+                        <textarea class="form-control" placeholder="Açıklama" id="description" name="description" style="height: 100px"></textarea>
+                        <label for="floatingTextarea2">Açıklama</label>
+                    </div>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-2">
+                        <button class="btn btn-success" type="button" id="addField">Alan Ekle</button>
+                    </div>
+                    <div id="custom-field">
+                        <div class="row mt-2 field_wrapper">
+                            <div class="col col-md-5">
+                                <input class="form-control" type="text" placeholder="Alan Adı" aria-label="Alan Adı" name="FormFields[0].name">
+                            </div>
+                            <div class="col col-md-3">
+                                <select class="form-select" aria-label="Tipi" name="FormFields[0].datatype">
+                                    <option selected>Tipi</option>
+                                    <option value="String">String</option>
+                                    <option value="Number">Number</option>
+                                </select>
+                            </div>
+                            <div class="col col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="true" id="flexCheckDefault" name="FormFields[0].required">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        Zorunlu
+                                    </label>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" id="formSend" onclick="submitDetailsForm()">Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts
+{
+    <script type="text/javascript">
+        var counter = 1;
+        $("#addField").click(function () {
+            newRowAdd =
+
+                '<div class="row mt-2 field_wrapper">' +
+                '<div class="col col-md-5">' +
+                ' <input class="form-control" type="text" placeholder="Alan Adı" aria-label="Alan Adı" name="FormFields[' + counter + '].name">' +
+                '</div>' +
+                '<div class="col col-md-3" ><select class="form-select" aria-label="Tipi" name="FormFields[' + counter + '].datatype">' +
+                '<option selected>Tipi</option>' +
+                '<option value="String">String</option>' +
+                '<option value = "Number" > Number</option > ' +
+                '</select > ' +
+                '</div>' +
+                '<div class="col col-md-2" > ' +
+                '<div class="form-check" > ' +
+                '<input class="form-check-input" type = "checkbox" value = "true" id = "flexCheckDefault" name = "FormFields[' + counter + '].required" > ' +
+                '<label class="form-check-label" for= "flexCheckDefault" > Zorunlu </label > ' +
+                ' </div> ' +
+                ' </div>' +
+                '<div class="col col-md-2">' +
+                '<button type="button" class="btn btn-danger remove-field" style="margin-left:5px;">-</button>' +
+                '</div> ' +
+
+                '</div> ';
+
+            $('#custom-field').append(newRowAdd);
+            counter++;
+        });
+        $("body").on("click", ".remove-field", function () {
+            $(this).parents(".field_wrapper").remove();
+        })
+        function submitDetailsForm() {
+            $("#formAdd").submit();
+        }
+    </script>
+}

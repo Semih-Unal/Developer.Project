@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Lena Yazilim\Entities\obj\Debug\net8.0\ref\Entities.dll

@@ -1,0 +1,23 @@
+﻿@model AddForm
+
+<div class="input-group input-group-sm mb-3">
+    <span class="input-group-text" id="inputGroup-sizing-sm">Form Adı</span>
+    <input type="text" class="form-control" aria-label="Form Adı" aria-describedby="inputGroup-sizing-sm" name="name" value="@Model.Name">
+</div>
+<div class="form-floating">
+    <textarea class="form-control" placeholder="Açıklama" id="description" name="description" style="height: 100px">@Model.Description</textarea>
+    <label for="floatingTextarea2">Açıklama</label>
+</div>
+@foreach (FormField form in Model.FormFields)
+{
+    if (form.DataType=="String")
+    {
+        <label for="floatingTextarea2">@form.Name</label>
+        <input type="text" class="form-control" aria-label="@form.Name" aria-describedby="inputGroup-sizing-sm" name="name">
+    }
+    else if (form.DataType == "Number")
+    {
+        <label for="floatingTextarea2">@form.Name</label>
+        <input type="number" class="form-control" aria-label="@form.Name" aria-describedby="inputGroup-sizing-sm" name="name">
+    }
+}

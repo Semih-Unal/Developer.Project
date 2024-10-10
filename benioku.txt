@@ -1,0 +1,5 @@
+proje çalıştırılmadan önce local sunucu üzerinde sql sorgusunu çalışmak gerekmektedir.
+
+Örnek kullanıcı 
+ad:semih
+şifre:123456
